@@ -5,11 +5,18 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build:css": "npx tailwindcss -i ./styles.css -o ./output.css --watch",
     "start": "electron ."
   },
   "author": "anna",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^31.1.0"
+    "autoprefixer": "^10.4.19",
+    "electron": "^31.1.0",
+    "postcss-loader": "^8.1.1",
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "fetch": "^1.1.0"
   }
 }
