@@ -1,0 +1,14 @@
+{
+  "name": "tp_final_quizz",
+  "version": "1.0.0",
+  "description": "tp_final_quizz",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anna",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.1.0"
+  }
+}
