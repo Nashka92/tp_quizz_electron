@@ -1,0 +1,719 @@
+{
+  "questions": [
+      {
+          "question": "Quelle est la capitale de l'Italie ?",
+          "answers": [
+              {
+                  "answer": "Rome",
+                  "correct": true
+              },
+              {
+                  "answer": "Milan",
+                  "correct": false
+              },
+              {
+                  "answer": "Florence",
+                  "correct": false
+              },
+              {
+                  "answer": "Venise",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est l'organe principal du système respiratoire chez l'homme ?",
+          "answers": [
+              {
+                  "answer": "Le foie",
+                  "correct": false
+              },
+              {
+                  "answer": "Le cœur",
+                  "correct": false
+              },
+              {
+                  "answer": "Le poumon",
+                  "correct": true
+              },
+              {
+                  "answer": "Le rein",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Qui a écrit 'Le Petit Prince' ?",
+          "answers": [
+              {
+                  "answer": "Victor Hugo",
+                  "correct": false
+              },
+              {
+                  "answer": "Antoine de Saint-Exupéry",
+                  "correct": true
+              },
+              {
+                  "answer": "Marcel Proust",
+                  "correct": false
+              },
+              {
+                  "answer": "Gustave Flaubert",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est le plus grand désert chaud du monde ?",
+          "answers": [
+              {
+                  "answer": "Le Kalahari",
+                  "correct": false
+              },
+              {
+                  "answer": "Le désert d'Atacama",
+                  "correct": false
+              },
+              {
+                  "answer": "Le désert de Gobi",
+                  "correct": false
+              },
+              {
+                  "answer": "Le Sahara",
+                  "correct": true
+              }
+          ]
+      },
+      {
+          "question": "Quel est le plus grand fleuve d'Amérique du Sud ?",
+          "answers": [
+              {
+                  "answer": "Le Nil",
+                  "correct": false
+              },
+              {
+                  "answer": "L'Amazone",
+                  "correct": true
+              },
+              {
+                  "answer": "Le Mississippi",
+                  "correct": false
+              },
+              {
+                  "answer": "Le Yangzi Jiang",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Qui a découvert la pénicilline ?",
+          "answers": [
+              {
+                  "answer": "Alexander Fleming",
+                  "correct": true
+              },
+              {
+                  "answer": "Marie Curie",
+                  "correct": false
+              },
+              {
+                  "answer": "Louis Pasteur",
+                  "correct": false
+              },
+              {
+                  "answer": "Albert Einstein",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est le plus grand océan du monde ?",
+          "answers": [
+              {
+                  "answer": "Atlantique",
+                  "correct": false
+              },
+              {
+                  "answer": "Pacifique",
+                  "correct": true
+              },
+              {
+                  "answer": "Indien",
+                  "correct": false
+              },
+              {
+                  "answer": "Arctique",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quelle est la plus haute montagne du monde ?",
+          "answers": [
+              {
+                  "answer": "K2",
+                  "correct": false
+              },
+              {
+                  "answer": "Kilimandjaro",
+                  "correct": false
+              },
+              {
+                  "answer": "Mont Blanc",
+                  "correct": false
+              },
+              {
+                  "answer": "Everest",
+                  "correct": true
+              }
+          ]
+      },
+      {
+          "question": "Qui a peint 'La Nuit Étoilée' ?",
+          "answers": [
+              {
+                  "answer": "Vincent van Gogh",
+                  "correct": true
+              },
+              {
+                  "answer": "Pablo Picasso",
+                  "correct": false
+              },
+              {
+                  "answer": "Leonardo da Vinci",
+                  "correct": false
+              },
+              {
+                  "answer": "Michel-Ange",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est le plus grand pays du monde ?",
+          "answers": [
+              {
+                  "answer": "Russie",
+                  "correct": true
+              },
+              {
+                  "answer": "Canada",
+                  "correct": false
+              },
+              {
+                  "answer": "Chine",
+                  "correct": false
+              },
+              {
+                  "answer": "États-Unis",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est le nom du robot dans 'Wall-E' ?",
+          "answers": [
+              {
+                  "answer": "R2-D2",
+                  "correct": false
+              },
+              {
+                  "answer": "Wall-E",
+                  "correct": true
+              },
+              {
+                  "answer": "C-3PO",
+                  "correct": false
+              },
+              {
+                  "answer": "Bender",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est l'élément le plus abondant dans l'univers ?",
+          "answers": [
+              {
+                  "answer": "Oxygène",
+                  "correct": false
+              },
+              {
+                  "answer": "Hydrogène",
+                  "correct": true
+              },
+              {
+                  "answer": "Azote",
+                  "correct": false
+              },
+              {
+                  "answer": "Hélium",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Qui a écrit 'Les Misérables' ?",
+          "answers": [
+              {
+                  "answer": "Victor Hugo",
+                  "correct": true
+              },
+              {
+                  "answer": "Gustave Flaubert",
+                  "correct": false
+              },
+              {
+                  "answer": "Émile Zola",
+                  "correct": false
+              },
+              {
+                  "answer": "Albert Camus",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est l'inventeur du téléphone ?",
+          "answers": [
+              {
+                  "answer": "Thomas Edison",
+                  "correct": false
+              },
+              {
+                  "answer": "Nikola Tesla",
+                  "correct": false
+              },
+              {
+                  "answer": "Alexander Graham Bell",
+                  "correct": true
+              },
+              {
+                  "answer": "Guglielmo Marconi",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est le pays d'origine du thé ?",
+          "answers": [
+              {
+                  "answer": "Inde",
+                  "correct": false
+              },
+              {
+                  "answer": "Chine",
+                  "correct": true
+              },
+              {
+                  "answer": "Japon",
+                  "correct": false
+              },
+              {
+                  "answer": "Vietnam",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Qui a écrit 'Orgueil et Préjugés' ?",
+          "answers": [
+              {
+                  "answer": "Charlotte Brontë",
+                  "correct": false
+              },
+              {
+                  "answer": "Emily Brontë",
+                  "correct": false
+              },
+              {
+                  "answer": "Virginia Woolf",
+                  "correct": false
+              },
+              {
+                  "answer": "Jane Austen",
+                  "correct": true
+              }
+          ]
+      },
+      {
+          "question": "Quel est le symbole chimique de l'eau ?",
+          "answers": [
+              {
+                  "answer": "CO2",
+                  "correct": false
+              },
+              {
+                  "answer": "H2O",
+                  "correct": true
+              },
+              {
+                  "answer": "NaCl",
+                  "correct": false
+              },
+              {
+                  "answer": "CH4",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est l'auteur de '1984' ?",
+          "answers": [
+              {
+                  "answer": "Aldous Huxley",
+                  "correct": false
+              },
+              {
+                  "answer": "Ray Bradbury",
+                  "correct": false
+              },
+              {
+                  "answer": "George Orwell",
+                  "correct": true
+              },
+              {
+                  "answer": "Kurt Vonnegut",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Qui a écrit 'Le Seigneur des Anneaux' ?",
+          "answers": [
+              {
+                  "answer": "J.R.R. Tolkien",
+                  "correct": true
+              },
+              {
+                  "answer": "George R.R. Martin",
+                  "correct": false
+              },
+              {
+                  "answer": "C.S. Lewis",
+                  "correct": false
+              },
+              {
+                  "answer": "J.K. Rowling",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est le plus grand animal terrestre ?",
+          "answers": [
+              {
+                  "answer": "L'éléphant d'Afrique",
+                  "correct": true
+              },
+              {
+                  "answer": "Le girafe",
+                  "correct": false
+              },
+              {
+                  "answer": "L'hippopotame",
+                  "correct": false
+              },
+              {
+                  "answer": "Le rhinocéros",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est l'année de la Révolution française ?",
+          "answers": [
+              {
+                  "answer": "1799",
+                  "correct": false
+              },
+              {
+                  "answer": "1804",
+                  "correct": false
+              },
+              {
+                  "answer": "1789",
+                  "correct": true
+              },
+              {
+                  "answer": "1830",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
+          "answers": [
+              {
+                  "answer": "Buzz Aldrin",
+                  "correct": false
+              },
+              {
+                  "answer": "Neil Armstrong",
+                  "correct": true
+              },
+              {
+                  "answer": "Yuri Gagarin",
+                  "correct": false
+              },
+              {
+                  "answer": "Alan Shepard",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est le pays le plus peuplé du monde ?",
+          "answers": [
+              {
+                  "answer": "Inde",
+                  "correct": false
+              },
+              {
+                  "answer": "États-Unis",
+                  "correct": false
+              },
+              {
+                  "answer": "Chine",
+                  "correct": true
+              },
+              {
+                  "answer": "Brésil",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Qui a peint 'Les Tournesols' ?",
+          "answers": [
+              {
+                  "answer": "Claude Monet",
+                  "correct": false
+              },
+              {
+                  "answer": "Pablo Picasso",
+                  "correct": false
+              },
+              {
+                  "answer": "Édouard Manet",
+                  "correct": false
+              },
+              {
+                  "answer": "Vincent van Gogh",
+                  "correct": true
+              }
+          ]
+      },
+      {
+          "question": "Quel est l'inventeur du microscope ?",
+          "answers": [
+              {
+                  "answer": "Robert Hooke",
+                  "correct": false
+              },
+              {
+                  "answer": "Louis Pasteur",
+                  "correct": false
+              },
+              {
+                  "answer": "Antonie van Leeuwenhoek",
+                  "correct": true
+              },
+              {
+                  "answer": "Alexander Fleming",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est le plus long fleuve d'Europe ?",
+          "answers": [
+              {
+                  "answer": "Le Danube",
+                  "correct": false
+              },
+              {
+                  "answer": "Le Rhin",
+                  "correct": false
+              },
+              {
+                  "answer": "Le Tage",
+                  "correct": false
+              },
+              {
+                  "answer": "La Volga",
+                  "correct": true
+              }
+          ]
+      },
+      {
+          "question": "Qui a écrit 'La Divine Comédie' ?",
+          "answers": [
+              {
+                  "answer": "Giovanni Boccaccio",
+                  "correct": false
+              },
+              {
+                  "answer": "Dante Alighieri",
+                  "correct": true
+              },
+              {
+                  "answer": "Pétrarque",
+                  "correct": false
+              },
+              {
+                  "answer": "Niccolò Machiavelli",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est l'inventeur de la machine à vapeur ?",
+          "answers": [
+              {
+                  "answer": "James Watt",
+                  "correct": true
+              },
+              {
+                  "answer": "Thomas Edison",
+                  "correct": false
+              },
+              {
+                  "answer": "Nikola Tesla",
+                  "correct": false
+              },
+              {
+                  "answer": "Alexander Graham Bell",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est le nom du premier satellite artificiel de la Terre ?",
+          "answers": [
+              {
+                  "answer": "Apollo 11",
+                  "correct": false
+              },
+              {
+                  "answer": "Spoutnik 1",
+                  "correct": true
+              },
+              {
+                  "answer": "Explorer 1",
+                  "correct": false
+              },
+              {
+                  "answer": "Vostok 1",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Qui a composé 'La Traviata' ?",
+          "answers": [
+              {
+                  "answer": "Wolfgang Amadeus Mozart",
+                  "correct": false
+              },
+              {
+                  "answer": "Ludwig van Beethoven",
+                  "correct": false
+              },
+              {
+                  "answer": "Giuseppe Verdi",
+                  "correct": true
+              },
+              {
+                  "answer": "Gioachino Rossini",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quelle est la monnaie officielle du Japon ?",
+          "answers": [
+              {
+                  "answer": "Le won",
+                  "correct": false
+              },
+              {
+                  "answer": "Le yuan",
+                  "correct": false
+              },
+              {
+                  "answer": "Le rouble",
+                  "correct": false
+              },
+              {
+                  "answer": "Le yen",
+                  "correct": true
+              }
+          ]
+      },
+      {
+          "question": "Quel est l'élément le plus lourd qui existe naturellement sur Terre ?",
+          "answers": [
+              {
+                  "answer": "Le plomb",
+                  "correct": false
+              },
+              {
+                  "answer": "L'uranium",
+                  "correct": true
+              },
+              {
+                  "answer": "Le tungstène",
+                  "correct": false
+              },
+              {
+                  "answer": "Le thorium",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Quel est le nombre d'étoiles sur le drapeau des États-Unis ?",
+          "answers": [
+              {
+                  "answer": "48",
+                  "correct": false
+              },
+              {
+                  "answer": "50",
+                  "correct": true
+              },
+              {
+                  "answer": "52",
+                  "correct": false
+              },
+              {
+                  "answer": "45",
+                  "correct": false
+              }
+          ]
+      },
+      {
+          "question": "Qui a écrit 'Le Portrait de Dorian Gray' ?",
+          "answers": [
+              {
+                  "answer": "Oscar Wilde",
+                  "correct": true
+              },
+              {
+                  "answer": "Herman Melville",
+                  "correct": false
+              },
+              {
+                  "answer": "F. Scott Fitzgerald",
+                  "correct": false
+              },
+              {
+                  "answer": "Charles Dickens",
+                  "correct": false
+              }
+          ]
+      }
+  ]
+}
+  
